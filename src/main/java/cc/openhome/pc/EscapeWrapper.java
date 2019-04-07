@@ -1,7 +1,6 @@
 package cc.openhome.pc;
 
-/*
-import javax.servlet.http.HttpServlet;
+/*import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletRequestWrapper;
 import org.apache.commons.lang.StringEscapeUtils;
@@ -16,5 +15,4 @@ public class EscapeWrapper extends HttpServletRequestWrapper {
         String value = getRequest().getParameter(name);
         return StringEscapeUtils.escapeHtml(value);
     }
-}
-*/
+}*/
